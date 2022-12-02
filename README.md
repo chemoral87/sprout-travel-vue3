@@ -1,3 +1,7 @@
+# Stack implemented
+
+Vue3 Api Composition, Nuxt3, Vuetify
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
