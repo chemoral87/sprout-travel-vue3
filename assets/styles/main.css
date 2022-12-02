@@ -1,0 +1,15 @@
+/* .stripped > div > table > tr:nth-child(even) {
+  background-color: #c8d9e7 !important;
+}
+
+.stripped tr:nth-child(even) {
+  background-color: #c8d9e7 !important;
+} */
+
+table.stripped > tr:nth-child(even) {
+  background-color: #c1d7e9;
+}
+
+table.stripped td {
+  padding: 3px 45px;
+}
