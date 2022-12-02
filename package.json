@@ -9,5 +9,13 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "axios": "^1.2.0",
+    "moment": "^2.29.4",
+    "sass": "^1.56.1",
+    "sass-loader": "^10.0.0",
+    "vuetify": "^3.0.3"
   }
 }
